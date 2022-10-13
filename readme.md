@@ -1,7 +1,8 @@
 **Learning About People’s Attitude Towards Food Available in India and Its Implications for Fair AI-based Systems**
 ---
 
-Region, states included and population - \href{https://github.com/hem-chandra/FAMPS/blob/main/region.pdf}
+Region, states included and population - https://github.com/hem-chandra/FAMPS/blob/main/region.pdf
+List of food choices, extracted by regions and used in the survey - https://github.com/hem-chandra/FAMPS/blob/main/Fooditems.pdf
 
 
 **Authors:** 
