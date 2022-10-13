@@ -1,5 +1,9 @@
 **Learning About People’s Attitude Towards Food Available in India and Its Implications for Fair AI-based Systems**
 ---
+
+Region, states included and population - \href{https://github.com/hem-chandra/FAMPS/blob/main/region.pdf}
+
+
 **Authors:** 
 - Hem Chandra Joshi
 - Utkarsh Yadav
